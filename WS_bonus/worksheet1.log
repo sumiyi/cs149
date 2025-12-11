@@ -1,0 +1,16 @@
+ 1039  cd ~/xv6-labs-2023
+ 1040  make clean
+ 1041  make qemu
+ 1042  nano user/usertests.c
+ 1043  make clean
+ 1044  make qemu
+ 1045  brew install qemu
+ 1046  cd ~/xv6-labs-2023
+ 1047  make qemu
+ 1048  git add .
+ 1049  git commit -am "finished boot xv6"
+ 1050  nano user/sleep.c
+ 1051  nano Makefile
+ 1052  make qemu
+ 1053  .grade_lab_util sleep
+ 1054  make GRADEFLAGS=sleep grade
