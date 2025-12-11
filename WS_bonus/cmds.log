@@ -1,0 +1,16 @@
+ 1009  git config --global user.email "sumiyi1015@gmail.com"
+ 1010  git config --global user.name "sumiyi"
+ 1011  mkdir WS_bonus
+ 1012  cd WS_bonus
+ 1013  git add .
+ 1014  wget -() out.pdf https://tinyurl.com/yy94jltt 
+ 1015  ls -latr
+ 1016  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1017  wget -O out.pdf https://tinyurl.com/yy94jltt\n
+ 1018  brew install wget
+ 1019  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1020  wget -O out.pdf https://tinyurl.com/yy94jltt\nls -l out.pdf\n
+ 1021  wget --trust-server-names --max-redirect=20 -O out.pdf https://tinyurl.com/yy94jltt\n
+ 1022  ls /opt/homebrew/bin/wget\n
+ 1023  /opt/homebrew/bin/wget -O out.pdf https://tinyurl.com/yy94jltt\n
+ 1024  ls -latr
